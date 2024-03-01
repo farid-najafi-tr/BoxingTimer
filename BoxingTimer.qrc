@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>Images/logo/IDEAL LOGO 1.jpg</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>Images/Icon/boxing-white.png.svg</file>
+    <file>Images/Icon/delete-white-2.png.svg</file>
+    <file>Images/Icon/media-pause-svgrepo-com.png.svg</file>
+    <file>Images/Icon/media-stop-svgrepo-com.png.svg</file>
+    <file>Images/Icon/rest-time-fill-svgrepo-com.png.svg</file>
+    <file>Images/Icon/save-svgrepo-com.png.svg</file>
+  </qresource>
+</RCC>
